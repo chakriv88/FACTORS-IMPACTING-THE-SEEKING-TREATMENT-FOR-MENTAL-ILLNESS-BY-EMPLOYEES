@@ -4,4 +4,4 @@ The survey measures attitudes towards mental health and frequency of mental heal
 Since these are technology organizations, we assume that all other things regarding employees is similar. 
 This may be a limitation of the data set and a future research has to address this. 
 We have identified Intent to seek treatment as the dependent variable. The variable is binary. 
-The data is analyzed using a logistic regression model.
+The data is analyzed using a logistic regression model and Factor Analysis.
